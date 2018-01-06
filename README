@@ -1,0 +1,8 @@
+# NodeJS Docker
+
+An example of how to use a Docker container to develop a NodeJS application
+
+# References
+
+[NodeJS Docker Guide](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
